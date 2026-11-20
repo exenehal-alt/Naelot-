@@ -1,0 +1,8 @@
+{
+  "name": "Naelot ",
+  "description": "Instantly convert bulk HTML files or text into downloadable ZIP archives containing high-quality images automatically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
